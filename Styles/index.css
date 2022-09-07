@@ -44,3 +44,22 @@
     margin-top: 10px;
     margin-left: 200px;
 }
+
+.Button {
+    width: 152px;
+    height: 64px;
+    background-color: #4F56F1;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 200px;
+    border: none;
+}
